@@ -3,7 +3,6 @@
 - 🌱 I'm currently learning game development on Godot
 - 💞️ I'm not looking for cooperation
 - 📫 No contact with me yet
-- 😄 Pronouns: He
 - ⚡ Fun fact: Received a specialty as an auto mechanic
 
 <!---
